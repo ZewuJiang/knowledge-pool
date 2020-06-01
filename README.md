@@ -1,5 +1,5 @@
 # knowledge-pool
-build up a knowledge pool in many fields
+build up a knowledge pool in many fields:
   Math
   Modeling
   Operation research
